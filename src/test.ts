@@ -1,5 +1,4 @@
-function test(): string {
-  return 'a';
-  
+function test (): string {
+  return 'a'
 }
-test();
+test()
