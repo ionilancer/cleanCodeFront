@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ionilancer/cleanCodeFront/issues"
   },
-  "homepage": "https://github.com/ionilancer/cleanCodeFront#readme"
+  "homepage": "https://github.com/ionilancer/cleanCodeFront#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
