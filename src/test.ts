@@ -1,4 +1,4 @@
 function test(): string {
-  return 'a'
+  return 'a';
 }
 test();
