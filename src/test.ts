@@ -1,4 +1,4 @@
 function testo (): string {
-  return 'a'
+  return 'b'
 }
 testo()

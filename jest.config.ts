@@ -12,6 +12,5 @@ export default {
   testEnviroment: 'node',
   transform: {
     '.+\\.ts$': 'ts-jest'
-  },
-  coveragePathIgnorePatterns: ['<rootDir>/node_modules/']
+  }
 }
