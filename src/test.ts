@@ -1,4 +1,4 @@
-function test (): string {
+function testo (): string {
   return 'a'
 }
-test()
+testo()
