@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/ionilancer/cleanCodeFront#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.1.1"
+    "@types/node": "^17.0.23",
+    "git-commit-msg-linter": "^4.1.1",
+    "typescript": "^4.6.3"
   }
 }
