@@ -1,3 +1,3 @@
 ## 💻 Practicas clean code
-Proyecto para repasar las buenas practicas del curso de Udemy programador autodidacta.
+Proyecto para repasar buenas practicas del programador autodidacta.
 
